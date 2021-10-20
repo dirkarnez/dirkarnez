@@ -8,6 +8,7 @@
 ![Python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
 ![C++](https://img.shields.io/badge/-C++-grey?style=for-the-badge&logo=c&logoColor=white&labelColor=8E2DE2)
 ![Java](https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=8E2DE2)
+![PHP](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=8E2DE2)
 ![Android](https://img.shields.io/badge/-Android-grey?style=for-the-badge&logo=Android&logoColor=white&labelColor=8E2DE2)
 ![Docker](https://img.shields.io/badge/-docker-grey?style=for-the-badge&logo=docker&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
