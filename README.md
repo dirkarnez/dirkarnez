@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dirkarnez&hide=html&layout=compact&langs_count=12)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dirkarnez&show_icons=true&theme=radical)
 
-# Programming Languages
+### Programming Languages
 - ![](https://img.shields.io/badge/-go-grey?style=for-the-badge&logo=go&logoColor=white&labelColor=8E2DE2)
 - ![](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
 - ![](https://img.shields.io/badge/-C++-grey?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=8E2DE2)
