@@ -12,6 +12,7 @@
 - ![](https://img.shields.io/badge/-C%23-grey?style=for-the-badge&logo=csharp&logoColor=white&labelColor=8E2DE2)
 - ![](https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=8E2DE2)
   - ![](https://img.shields.io/badge/-Spring-grey?style=for-the-badge&logo=Spring&logoColor=white&labelColor=8E2DE2)
+  - ![](https://img.shields.io/badge/-Hibernate-grey?style=for-the-badge&logo=Hibernate&logoColor=white&labelColor=8E2DE2)
 - ![](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=8E2DE2)
   - ![](https://img.shields.io/badge/-laravel-grey?style=for-the-badge&logo=laravel&logoColor=white&labelColor=8E2DE2)
 - ![](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
@@ -24,6 +25,7 @@
 ![](https://img.shields.io/badge/-react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)
 ![](https://img.shields.io/badge/-redux-grey?style=for-the-badge&logo=redux&logoColor=white&labelColor=8E2DE2)
 ![](https://img.shields.io/badge/-svelte-grey?style=for-the-badge&logo=svelte&logoColor=white&labelColor=8E2DE2)
+![](https://img.shields.io/badge/-Selenium-grey?style=for-the-badge&logo=Selenium&logoColor=white&labelColor=8E2DE2)
 
 ### Backend web development frameworks / libraries / technologies
 ![](https://img.shields.io/badge/-Apollo%20GraphQL-grey?style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white&labelColor=8E2DE2)
